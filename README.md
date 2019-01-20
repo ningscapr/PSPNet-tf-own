@@ -13,7 +13,7 @@ python3 train.py --train-beta-gamma
 python3 train.py
 ```
 
-The checkpoint file I get: [Checkpoint](https://drive.google.com/open?id=1PEoHw4-1G7kwPoBPPoEtQsVQM9LXuTXr).After download it, put the model_own folder in the main folder. 
+The checkpoint file I get: [Checkpoint](https://drive.google.com/open?id=1PEoHw4-1G7kwPoBPPoEtQsVQM9LXuTXr). After download it, put the model_own folder in the main folder. 
 
 
 ## Evaluate
