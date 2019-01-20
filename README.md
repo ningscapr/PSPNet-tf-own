@@ -28,4 +28,10 @@ Both the train list and validation list are in list_own folder.
 
 
 ## Results
+![The input image 1](./results/7_31.VRay对象ID.0000_gray.png)
+
+![The input image 2](./results/7_310000.png)
+
+![The output image](./results/7_310901.png)
+
 
